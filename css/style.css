@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@700&family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@700&display=swap');
+
 .nav-title {
   font-family: 'Poppins';
   font-style: normal;
@@ -97,4 +99,80 @@
 }
 .main-section button i {
   margin-left: 8px;
+}
+
+.package-section-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 57px;
+  color: #0a0826;
+  margin-bottom: 100px;
+}
+.choose-package {
+  width: 1170px;
+}
+
+.choose-package h1 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 46px;
+  color: #231d4f;
+  margin-bottom: 20px;
+}
+.choose-package h2 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 33px;
+  color: #231d4f;
+  margin-bottom: 15px;
+  margin-top: 0;
+}
+.choose-package p {
+  margin-top: 0;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #848199;
+}
+.choose-package i {
+  width: 20px;
+  height: 20px;
+  color: #69a0f1;
+  margin-right: 10px;
+}
+.choose-package h4 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #848199;
+}
+.choose-package button {
+  width: 207px;
+  height: 45px;
+  margin-top: 24px;
+  background-color: #e9cee0;
+  border-radius: 24px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: #3f87f5;
+  border: none;
+}
+.badge-container {
+  padding: 30px;
+  background-color: #3f87f5;
+  color: #ffffff;
+  border-radius: 26px;
 }
