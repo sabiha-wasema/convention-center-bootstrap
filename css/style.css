@@ -218,6 +218,14 @@ body {
 .accordion {
   width: 552px;
 }
+.accordion-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+  color: #0d0925;
+  margin-bottom: 100px;
+}
 .query-section img {
   width: 546px;
   height: 364px;
