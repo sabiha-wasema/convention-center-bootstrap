@@ -8,7 +8,6 @@
   font-style: normal;
   font-weight: 700;
   font-size: 22px;
-  line-height: 33px;
   color: #3e3e3e;
 }
 .navbar-item li {
@@ -16,7 +15,6 @@
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
   color: #3e3e3e;
 }
 .heading-section {
@@ -36,7 +34,6 @@
   font-style: normal;
   font-weight: 700;
   font-size: 48px;
-  line-height: 58px;
   text-align: center;
   color: #ffffff;
 }
@@ -45,7 +42,6 @@
   font-style: normal;
   font-weight: 300;
   font-size: 16px;
-  line-height: 24px;
   text-align: center;
   color: #ffffff;
 }
@@ -59,7 +55,6 @@
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 24px;
   color: #3f87f5;
 }
 .main-section img {
@@ -73,7 +68,6 @@
   font-style: normal;
   font-weight: 700;
   font-size: 38px;
-  line-height: 60px;
   color: #0a0826;
   margin-bottom: 6px;
 }
@@ -82,7 +76,6 @@
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 28px;
   color: #6c6c6c;
 }
 .main-section button {
@@ -94,11 +87,21 @@
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 24px;
   color: #ffffff;
 }
 .main-section button i {
   margin-left: 8px;
+}
+
+.toast-header {
+  border-image: linear-gradient(tomato, tomato);
+  border-image-slice: 1;
+  border-left: 4px solid;
+  border-bottom: 0;
+}
+.toast-header i {
+  width: 22px;
+  height: 23px;
 }
 
 .package-section-title {
@@ -106,7 +109,6 @@
   font-style: normal;
   font-weight: 600;
   font-size: 38px;
-  line-height: 57px;
   color: #0a0826;
   margin-bottom: 100px;
 }
@@ -119,7 +121,6 @@
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 46px;
   color: #231d4f;
   margin-bottom: 20px;
 }
@@ -128,7 +129,6 @@
   font-style: normal;
   font-weight: 700;
   font-size: 28px;
-  line-height: 33px;
   color: #231d4f;
   margin-bottom: 15px;
   margin-top: 0;
@@ -139,7 +139,6 @@
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
-  line-height: 22px;
   color: #848199;
 }
 .choose-package i {
@@ -153,7 +152,6 @@
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
-  line-height: 22px;
   color: #848199;
 }
 .choose-package button {
@@ -166,7 +164,6 @@
   font-style: normal;
   font-weight: 700;
   font-size: 15px;
-  line-height: 18px;
   color: #3f87f5;
   border: none;
 }
@@ -175,4 +172,41 @@
   background-color: #3f87f5;
   color: #ffffff;
   border-radius: 26px;
+}
+.client-section-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+  color: #0a0826;
+  margin-bottom: 100px;
+}
+.client-description img {
+  width: 100px;
+  height: 100px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+.client-description p {
+  margin-bottom: 15px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #6c6c6c;
+}
+.client-description h3 {
+  margin-top: 0;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  color: #0c1920;
+}
+.client-description span {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  color: #747474;
 }
