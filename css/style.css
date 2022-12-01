@@ -1,0 +1,62 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@700&family=Roboto&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.nav-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 33px;
+  color: #3e3e3e;
+}
+.navbar-item li {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3e3e3e;
+}
+.heading-section {
+  width: 1340px;
+  height: 584px;
+}
+.carousel-item img {
+  width: 1340px;
+  height: 584px;
+}
+.carousel-caption {
+  padding: 0 40px;
+  margin-bottom: 40px;
+}
+.carousel-caption h5 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  text-align: center;
+  color: #ffffff;
+}
+.carousel-caption p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+.carousel-caption button {
+  width: 168px;
+  height: 44px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: none;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3f87f5;
+}
